@@ -1,0 +1,260 @@
+
+@media(min-width:1900px){
+
+    .slider_one .owl-nav button.owl-prev{
+        left:10%;
+    }
+    .slider_one .owl-nav button.owl-next{
+        right:10%;
+    }
+
+
+}
+@media(max-width:1024px){
+    .carousel_img{
+        width: 450px;
+       right: 0;
+       bottom: 0;
+       }
+       .carousel_img2{
+           width: 350px;
+           height: 250px;
+       }
+       .carousel_total h1{
+        text-align: center;
+        font-size: 36px;
+        
+      }
+      .slider_one .owl-nav button.owl-next{
+        right:2%;
+    }
+    .ageency-img{
+        width: 450px;
+    }
+    .doc-img{
+        width: 30%;
+    }
+    .tooth-sect{
+        width: 22%;
+    }
+    .plan-sect{
+        width: 25%;
+     }
+
+}
+@media(max-width:768px){
+    .logo-part{
+        display: none;
+    }
+    
+    .main-logo{
+        margin-left: 10px;
+    }
+
+    .main-logo{
+        display: inline-block;
+        width: 160px;
+        margin-right: 150px;
+    }
+    .media-head{
+        display: initial;
+        margin-bottom: 10px;
+
+    }
+    .head_first{
+        display: none;
+    }
+    .navbar-nav{
+        border-bottom: 2px solid #fff;
+    }
+    .icon-head{
+      
+    }
+    .icon-1{
+        width: 20px ;
+        color:#fff;
+    }
+    .icon-sms h5{
+        color:#fff;
+
+    }
+    .icon-sms p{
+        color:#fff;
+
+    }
+    
+    .butt-sect{
+        display: none;
+    }
+    .main-logo img{
+        width: 200px;
+    }
+    .carousel_img{
+     width: 350px;
+    right: 0;
+    bottom: 0;
+    }
+    .carousel_img2{
+        width: 350px;
+        height: 250px;
+    }
+    .carousel_total h1{
+        text-align: center;
+        font-size: 26px;
+        
+      }
+      .carousel_total h4{
+        text-align: center;
+        font-size: 22px;
+    }
+    .ageency-img{
+        width: 380px;
+    }
+    .head-row{
+        margin: 0%;
+        text-align: center;
+    }
+    .doc-img{
+        width: 30%;
+    }
+    .tooth-sect{
+        width: 22%;
+    }
+    .tooth-img{
+        width: 30px;
+    }
+    .plan-sect{
+       width: 80%;
+    }
+
+}
+@media(max-width:575px){
+    .logo-part{
+        display: none;
+    }
+    .main-logo{
+        display: inline-block;
+        width: 160px;
+        margin-right: 150px;
+    }
+    .head-logo{
+       
+       
+    }
+    
+    .butt-sect{
+        display: none;
+    }
+    .main-logo img{
+        width: 200px;
+    }
+    .carousel_img{
+        display: none;
+    }
+    .carousel_img2{
+        display: none;
+    }
+    .position{
+        text-align: center;
+      
+    }
+    .navbar-toggler{
+        margin-left: 100px;
+
+    }
+    .carousel_total h1{
+      text-align: center;
+      font-size: 28px;
+      
+    }
+    .carousel_total h4{
+        text-align: center;
+        font-size: 20px;
+    }
+    .ageency-img{
+       position: inherit;
+       width: 60%;
+       margin: auto;
+       margin-bottom: 30px;
+    }
+    .head-row h4{
+        text-align: center;
+
+    }
+    .head-row p{
+        text-align: center;
+    }
+    .plan-sect{
+        margin-bottom: 30px;
+    }
+    .head_first{
+        display: none;
+    }
+    .media-head{
+        display: initial;
+
+    }
+    .navbar-nav{
+        border-bottom: 2px solid #fff;
+    }
+    .icon-head{
+      
+    }
+    .icon-1{
+        width: 20px ;
+        color:#fff;
+    }
+    .icon-sms h5{
+        color:#fff;
+
+    }
+    .icon-sms p{
+        color:#fff;
+
+    }
+}
+@media(max-width:425px){
+    .carousel_total h1{
+        font-size: 25px;
+    }
+    .banner{
+        min-height: 0;
+    }
+    .carousel_total {
+        padding-top: 60px !important;
+    }
+    .main-logo {
+        display: inline-block;
+        width: 150px;
+        margin-right: 0;
+        margin-left: 20px;
+    }
+
+
+}
+@media(max-width:320px){
+    
+    
+    .carousel_total {
+        padding-top: 30px !important;
+    }
+    .carousel_total h1{
+        font-size: 19px;
+    }
+    .carousel_total .btn-1{
+        font-size: 12px;
+    }
+    .carousel_total .btn-2{
+        font-size: 12px;
+    }
+    .plan-sect {
+        width: 200px;
+    }
+    .navbar-toggler {
+        margin-left: 25px;
+    }
+    .main-logo{
+        margin-left: 10px;
+    }
+
+}
